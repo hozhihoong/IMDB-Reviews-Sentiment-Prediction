@@ -4,4 +4,4 @@
 - Implemented the Apriori algorithm to reveal 10 association rules.
 - Analyzed lift values to identify strong associations between items.
 - Provided clear recommendations for optimizing item placement and enhancing sales strategies.
-Dataset: https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
+## Dataset: https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
