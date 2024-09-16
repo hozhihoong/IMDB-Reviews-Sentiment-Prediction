@@ -1,7 +1,7 @@
 # IMDB-Reviews-Sentiment-Prediction
-- Extracted insights on item reception and identified customer-favored item groups using association rule mining on daily transaction data.
-- Prepared the dataset for association rule mining by grouping transactions and applying one-hot encoding.
-- Implemented the Apriori algorithm to reveal 10 association rules.
-- Analyzed lift values to identify strong associations between items.
-- Provided clear recommendations for optimizing item placement and enhancing sales strategies.
+- Conducted sentiment analysis on IMDB's 50K Movie Reviews using machine learning.
+- Preprocessed data by using text processing and normalization techniques.
+- Utilized text vectorization techniques for further machine learning implementation.
+- Implemented Random Forest, Linear SVM, and Logistic Regression for sentiment classification.
+- Explored the impact of common words on model performance.
 ## Dataset: https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
